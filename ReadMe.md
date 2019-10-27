@@ -1,7 +1,7 @@
 #read me
 
 ## STM32G431KB nucleo blink
-まだ動きません。
+まだ動きません。(not run)
 
 ```
 make
